@@ -1,2 +1,5 @@
 [alias]
 	hist = log --all --decorate --oneline --graph
+[user]
+	name = amimohab
+	email = mohab_hussein@yahoo.com
